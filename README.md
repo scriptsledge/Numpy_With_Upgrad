@@ -1,6 +1,6 @@
 # Numpy_With_Upgrad
 
-This repository contains comprehensive code and tutorials for mastering **NumPy**, a widely-used Python library for numerical computing. The materials are based on a video tutorial from the YouTube channel.
+This repository contains comprehensive code and tutorials for mastering **NumPy**, a widely-used Python library for numerical computing. The materials are based on a [video tutorial](https://youtu.be/YqUcT-BFUM0?si=uoT5zNCBPeE4qC1p) from the YouTube channel.
 
 ---
 
